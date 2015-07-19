@@ -1,6 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Poiret+One);
+body {
+    text-align: center;
+}
 h1, p {
-    font-family: Poiret One;
+    font-family: 'Poiret One';
 }
 h1 {
     font-style: bold;
