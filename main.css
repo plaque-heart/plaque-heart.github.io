@@ -2,7 +2,7 @@
 body {
     text-align: center;
 }
-h1, p {
+h1, h2, h3, h4, p {
     font-family: 'Poiret One';
 }
 h1 {
