@@ -1,4 +1,18 @@
 @import url(http://fonts.googleapis.com/css?family=Poiret+One);
+nav {
+  background-color: grey; 
+}
+nav > ul {
+  padding: 0px;
+}
+nav > ul > li {
+  display: inline-block;
+  padding: 10px 30px 10px 30px; /* top right bottom left */
+}
+nav > ul > li > a {
+  color: white;
+  text-decoration: none;
+}
 body {
     text-align: center;
 }
